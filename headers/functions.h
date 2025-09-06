@@ -1,3 +1,8 @@
+/*
+    MATH CELL FUNCTIONS FOR THE
+    VISICALC TERMINAL CLONE
+    BY github.com/zeynepsturan
+*/
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 #include <vector>
