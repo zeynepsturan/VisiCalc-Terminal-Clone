@@ -1,3 +1,8 @@
+/*
+    FILE MANAGER CLASS FOR THE
+    VISICAL TERMINAL CLONE
+    BY github.com/zeynepsturan
+*/
 #ifndef FILEMANAGER_H
 #define FILEMANAGER_H
 #include <vector>
