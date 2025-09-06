@@ -1,3 +1,8 @@
+/*
+    SHEET CLASS FOR THE
+    VISICALC TERMINAL CLONE
+    BY github.com/zeynepsturan
+*/
 #ifndef SHEET_H
 #define SHEET_H
 
@@ -48,4 +53,5 @@ private:
 };
 
 #endif
+
 
