@@ -1,4 +1,6 @@
 # VisiCalc-Terminal-Clone
+![Build Status](https://github.com/profanity-im/profanity/workflows/CI/badge.svg)
+
 A retro-inspired, Linux terminal-based clone of the legendary [VisiCalc spreadsheet](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981), rebuilt in C++ with modern OOP design principles
 
 <img width="1026" height="698" alt="visicalc-photo" src="https://github.com/user-attachments/assets/6e16b5b0-3add-4469-be81-19976bc83765" />
