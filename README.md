@@ -5,11 +5,11 @@ This project is a terminal-based clone of the original VisiCalc — the first-ev
 Written in C++ with modern object-oriented principles and polymorphism, it supports cell formulas, functions (SUM, AVER, MAX, MIN, STDDEV), and absolute cell referencing.
 Designed for retro computing fans, programming students, and anyone curious about how spreadsheet engines work under the hood.
 
-Features:
+## Features
 
-Formula parsing without parentheses (e.g., =SUM A1:A10 + B2)
+Absolute cell referencing (e.g., A1)
 
-Absolute cell referencing (e.g., $A$1)
+Formula parsing (e.g., A1=SUMB1..B10)
 
 Basic arithmetic operations: +, -, *, /
 
@@ -17,6 +17,6 @@ Function support: SUM, AVER, MAX, MIN, STDDEV
 
 Terminal navigation with custom key bindings
 
-OOP design with polymorphism for cell types
+Save/Load to/from .csv files functionality
 
-Future plans include relative addressing, dependency graph evaluation, and save/load functionality.
+## Installation
